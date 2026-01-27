@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this workflow, please cite it."
+title: "SWAT+ COCOA Build Workflow"
+type: software
+authors:
+  - family-names: "Eini"
+    given-names: "Mohammad Reza"
+repository-code: "https://github.com/MR-Eini/CREATE_PL/"
+license: "MIT"
+keywords:
+  - SWAT+
+  - COCOA
+  - hydrology
+  - watershed modeling
+  - SWATbuildR
+  - SWATprepR
+  - SWATfarmR
